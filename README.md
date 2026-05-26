@@ -2,8 +2,12 @@
 
 Laravel-based academic support platform for students, tutors, teachers, and school administrators. Utilizes database for meeting sessions and assignments.
 
+---
+
 ## Repository Note
 This repository was originally developed under a hackathon team account, because of later updates and restructuring, this version serves as the clean version of the project.
+
+---
 
 ## Key Features
 1. **Role-Based Access Control**
@@ -49,14 +53,20 @@ app/
 ├── helpers/
 ```
 
+---
+
 ## Impact
 SPARK was awarded Best Education Project at YRHacks 2025.
+
+---
 
 ## Lessons Learned
 - Designing backend systems using MVC principles
 - Implementing role-based auth
 - Databases
 - Full-stack collaboration in a competitive environment
+
+---
 
 ## License
 MIT
